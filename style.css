@@ -2,4 +2,9 @@ header {background-color:green
     }
     body {color: white;}
 .cabecalho {
-    back.
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 12px;
+}
