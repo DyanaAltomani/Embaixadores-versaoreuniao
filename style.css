@@ -13,7 +13,8 @@ header {background-color:green
         height: 10%;
     }
  
-.logo {
+    .logo {
     width: 30%;
         height: 30%;
+        align-content: center;
 }
