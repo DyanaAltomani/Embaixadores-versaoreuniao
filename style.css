@@ -2,7 +2,7 @@ header {background-color:green
     }
     body {color: white;}
 .cabecalho {
-    background-color: blue;
+    background-color: rgb(79, 144, 243);
     display: flex;
     justify-content: space-around;
     align-items: center;
