@@ -2,7 +2,7 @@ header {background-color:green
     }
     body {color: white;}
 .cabecalho {
-    background-color: rgb(79, 144, 243);
+    background-color: rgb(29, 115, 243);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -13,9 +13,6 @@ header {background-color:green
         height: 20%;
     }
  
-    .logo {
-    width: 30%;
-    height: 30%;
-   align-items: center;
+   
 }
 
