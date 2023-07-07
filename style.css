@@ -7,5 +7,9 @@ header {background-color:green
     justify-content: space-around;
     align-items: center;
     padding: 12px;
-img src {font-size: 12px}
+
+    img {
+        width: 10%;
+        height: 10%;
+    }
  
