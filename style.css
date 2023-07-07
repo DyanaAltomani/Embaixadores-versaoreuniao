@@ -1,7 +1,8 @@
 header {background-color:green
     }
-    body {color: white;}
+    body {color: black;}
     body{ text-align: center;}
+    
     
 .cabecalho {
     background-color: rgb(29, 115, 243);
@@ -22,4 +23,6 @@ header {background-color:green
 
     text-align: right;
     font-size: 50px;
+    color: white;
+
 }
