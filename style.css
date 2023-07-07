@@ -1,4 +1,4 @@
-body {background-color:rgb(143, 235, 143)
+header {background-color:rgb(25, 177, 25)
     }
     body {color: black;}
     body{ text-align: center;}
@@ -28,7 +28,7 @@ body {background-color:rgb(143, 235, 143)
 .cabecalho-lista-item {
 
     text-align: right;
-    font-size: 50px;
+    font-size: 40px;
     color: white;
 
 }
