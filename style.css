@@ -4,7 +4,9 @@ header {background-color:green
 .cabecalho {
     background-color: blue;
     display: flex;
-   
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
 
    .cabecalho-imagem {
         width: 10%;
@@ -15,9 +17,4 @@ header {background-color:green
     width: 30%;
         height: 30%;
         align-content: center;
-}
-.cabecalho-lista {
-
-    background-color: white;
-    font-size: 20px;
 }
