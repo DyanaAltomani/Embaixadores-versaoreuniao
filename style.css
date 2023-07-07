@@ -3,7 +3,11 @@ header {background-color:rgb(25, 177, 25)
     body {color: black;}
     body{ text-align: center;}
     body {font-size: 30px;}
-    
+ .img texto-imagem {
+    width: 10%;
+    height: 10%;
+
+ }
     
 .cabecalho {
     background-color: rgb(29, 115, 243);
@@ -16,13 +20,7 @@ header {background-color:rgb(25, 177, 25)
         width: 20%;
         height: 20%;
     }
- .imagem-texto {
-    width: 10%;
-    height: 10%;
-
-
- }
-   
+ .   
 }
 
 .cabecalho-lista-item {
