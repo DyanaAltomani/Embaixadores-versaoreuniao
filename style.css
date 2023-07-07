@@ -6,7 +6,7 @@ header {background-color:green
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 40px;
+    padding: 30px;
 
    .cabecalho-imagem {
         width: 20%;
@@ -16,6 +16,6 @@ header {background-color:green
     .logo {
     width: 30%;
     height: 30%;
-    text-align: center;
+   align-items: center;
 }
 
