@@ -2,6 +2,7 @@ header {background-color:green
     }
     body {color: black;}
     body{ text-align: center;}
+    body {font-size: 30px;}
     
     
 .cabecalho {
@@ -16,7 +17,12 @@ header {background-color:green
         height: 20%;
     }
  
-   
+   .logo {
+
+    width: 30%;
+    height: 30%;
+
+   }
 }
 
 .cabecalho-lista-item {
