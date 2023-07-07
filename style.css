@@ -1,4 +1,4 @@
-header {background-color:green
+header {background-color:rgb(10, 209, 10)
     }
     body {color: black;}
     body{ text-align: center;}
@@ -12,14 +12,14 @@ header {background-color:green
     align-items: center;
     padding: 20px;
 
-   .cabecalho-imagem {
+.cabecalho-imagem {
         width: 20%;
         height: 20%;
     }
  .imagem-texto {
-    width: 20%;
-    height: 20%;
-    
+    width: 10%;
+    height: 10%;
+
 
  }
    
