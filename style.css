@@ -12,6 +12,7 @@ header {background-color:rgb(25, 177, 25)
     justify-content: space-around;
     align-items: center;
     padding: 20px;
+}
 
 .cabecalho-imagem {
         width: 20%;
@@ -23,7 +24,7 @@ header {background-color:rgb(25, 177, 25)
     height: 10%;
 
   }
-}
+
 
 .cabecalho-lista-item {
 
