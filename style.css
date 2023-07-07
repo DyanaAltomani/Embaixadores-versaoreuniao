@@ -20,8 +20,9 @@ header {background-color:rgb(25, 177, 25)
             }
 
   .imagem-texto {
-    width: 10%;
-    height: 10%;
+    width: 40%;
+    height: 40%;
+    align-content: center;
 
   }
 
