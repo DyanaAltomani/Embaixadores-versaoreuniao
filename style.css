@@ -32,5 +32,6 @@ header {background-color:rgb(25, 177, 25)
     text-align: right;
     font-size: 40px;
     color: white;
+    display: inline-block;
 
 }
