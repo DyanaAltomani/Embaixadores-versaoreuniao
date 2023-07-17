@@ -8,7 +8,7 @@ header {background-color:rgb(25, 177, 25)
     
 .cabecalho {
     background-color: rgb(29, 115, 243);
-    display: inline-block;
+    display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 20px;
