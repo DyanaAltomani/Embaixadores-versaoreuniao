@@ -8,9 +8,9 @@ header {background-color:rgb(25, 177, 25)
     
 .cabecalho {
     background-color: rgb(29, 115, 243);
-    display: flex;
+    display: inline-block;
     justify-content: space-around;
-    align-items: normal;
+    align-items: center;
     padding: 20px;
 }
 
