@@ -29,7 +29,7 @@ header {background-color:rgb(25, 177, 25)
 
 .cabecalho-lista-item {
 
-    text-align: right;
+    text-align: center;
     font-size: 40px;
     color: white;
     display: inline-block;
