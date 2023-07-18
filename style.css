@@ -2,8 +2,8 @@ header {background-color:rgb(25, 177, 25)
     }
     body {color: black;}
     body{ text-align: justify;}
-    body {font-size: 20px;}
-    body {text-indent: 10px}
+    body {font-size: 30px;}
+
 
 
     
@@ -18,13 +18,13 @@ header {background-color:rgb(25, 177, 25)
 .cabecalho-imagem {
         width: 20%;
         height: 20%;
-       justify-content: center;
+      
             }
 
   .imagem-texto {
-    width: 40%;
-    height: 40%;
-    text-align: center;
+    width: 30%;
+    height: 30%;
+    justify-content: center;
 
   }
 
