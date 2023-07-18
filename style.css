@@ -40,10 +40,11 @@ header {background-color:rgb(25, 177, 25)
  
 }
 
-.imagem-alura {
+.imagem-final {
     width: 10%;
     height: 10%;
-
+    display: flex;
+    
 }
 
 
