@@ -6,7 +6,7 @@ header {background-color:rgb(25, 177, 25)
     p {font-size: 25px;}
 
 .cabecalho-lista-item {
-    display: flex;
+    display: inline-block;
     justify-content: space-around;
 }
    
@@ -67,7 +67,7 @@ header {background-color:rgb(25, 177, 25)
 
 .cabecalho-lista-item {
 
-    text-align: justify;
+    text-align: center;
     font-size: 30px;
     color: white;
     display: inline-block;
