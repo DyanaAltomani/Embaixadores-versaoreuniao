@@ -5,7 +5,10 @@ header {background-color:rgb(25, 177, 25)
     h1 {font-size: 40px;}
     p {font-size: 25px;}
 
+.cabecalho-lista-item {
+    display: flex;
 
+}
    
 .cabecalho {
     background-color: rgb(29, 115, 243);
