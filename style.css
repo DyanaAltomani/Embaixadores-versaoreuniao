@@ -31,9 +31,7 @@ header {background-color:rgb(25, 177, 25)
 
 .imagem-figura {
  display: flex;
- justify-content: space-around;
-align-items: center;
-padding: 20px;
+padding: 10px;
 
 }
 .cabecalho-lista {
