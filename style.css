@@ -11,7 +11,7 @@ header {background-color:rgb(128, 243, 166)
 }
    
 .cabecalho {
-    background-color: rgb(29, 115, 243);
+    background-color: rgb(62, 104, 243);
     display: flex;
     justify-content: space-around;
     align-items: center;
