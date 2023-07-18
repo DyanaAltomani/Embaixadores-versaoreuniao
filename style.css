@@ -33,6 +33,8 @@ header {background-color:rgb(25, 177, 25)
  display: flex;
  width: 10%;
  height: 10%;
+ justify-content: space-around;
+ align-items: center;
 
 }
 .cabecalho-lista {
