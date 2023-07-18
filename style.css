@@ -43,11 +43,8 @@ header {background-color:rgb(25, 177, 25)
 .imagem-final {
     width: 10%;
     height: 10%;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-
-}
+    display:inline-block
+    }
 
 
 .cabecalho-lista {
