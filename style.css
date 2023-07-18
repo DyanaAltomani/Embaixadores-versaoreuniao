@@ -33,8 +33,7 @@ header {background-color:rgb(25, 177, 25)
   width: 10%;
  height: 10%;
  display: flex;
- justify-content: space-around;
- align-items:end;
+ justify-content:first baseline;
  padding: 20px;
  
 
