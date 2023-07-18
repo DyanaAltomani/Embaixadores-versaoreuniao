@@ -34,7 +34,7 @@ header {background-color:rgb(25, 177, 25)
  height: 10%;
  display: flex;
  justify-content: space-around;
- align-items: center;
+ align-items:end;
  padding: 20px;
  
 
