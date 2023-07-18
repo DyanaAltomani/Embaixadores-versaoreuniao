@@ -53,6 +53,11 @@ header {background-color:rgb(25, 177, 25)
     padding: 20px;
     
 }
+
+.Rodape-lista {
+    display: flex;
+    font-size: 20px;
+}
 footer {
     background-color: rgb(29, 115, 243);
     align-items: center;
