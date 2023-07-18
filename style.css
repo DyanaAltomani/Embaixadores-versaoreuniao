@@ -6,7 +6,10 @@ header {background-color:rgb(25, 177, 25)
     p {font-size: 25px;}
 
 
+.cabecalho-lista-item {
 
+    font-size: 20px;
+}
     
 .cabecalho {
     background-color: rgb(29, 115, 243);
