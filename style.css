@@ -28,6 +28,14 @@ header {background-color:rgb(25, 177, 25)
     align-items: center;
 
   }
+
+.imagem-figura {
+ display: flex;
+ justify-content: space-around;
+align-items: center;
+padding: 20px;
+
+}
 .cabecalho-lista {
     display: flex;
     justify-content: space-around;
