@@ -6,7 +6,7 @@ header {background-color:rgb(25, 177, 25)
     p {font-size: 25px;}
 
 .cabecalho-lista-item {
-    display: inline-block;
+    display: flex;
     justify-content: space-around;
 }
    
