@@ -31,6 +31,7 @@ header {background-color:rgb(25, 177, 25)
 .cabecalho-lista {
     display: flex;
     justify-content: space-around;
+    font-size: 30px;
 }
 
 .cabecalho-lista-item {
