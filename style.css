@@ -56,9 +56,10 @@ header {background-color:rgb(25, 177, 25)
 
 .Rodape-lista {
     display: flex;
-    font-size: 20px;
+    font-size: 10px;
 }
 footer {
     background-color: rgb(29, 115, 243);
-   
+    padding: 10px;
+    
 }
