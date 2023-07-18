@@ -34,7 +34,7 @@ header {background-color:rgb(25, 177, 25)
 .imagem-figura {
   width: 20%;
  height: 20%;
- display: flex;
+ display: inline-block
  justify-content: space-around;
  padding: 20px;
  
