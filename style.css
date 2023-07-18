@@ -6,7 +6,7 @@ header {background-color:rgb(25, 177, 25)
     p {font-size: 25px;}
 
 .cabecalho-lista-item {
-    display: flex;
+    display: inline-block;
     justify-content: space-around;
 }
    
@@ -34,7 +34,7 @@ header {background-color:rgb(25, 177, 25)
 .imagem-figura {
   width: 20%;
  height: 20%;
- display: inline-block
+ display: inline-block;
  justify-content: space-around;
  padding: 20px;
  
@@ -43,7 +43,8 @@ header {background-color:rgb(25, 177, 25)
 .imagem-final {
     width: 10%;
     height: 10%;
-    display:inline-block
+    display:inline-block;
+    padding: 20px;
     }
 
 
