@@ -2,7 +2,7 @@ header {background-color:rgb(25, 177, 25)
     }
     body {color: black;}
     body{ text-align: justify;}
-    body {font-size: 30px;}
+    body {font-size: 20px;}
 
 
     
@@ -23,7 +23,7 @@ header {background-color:rgb(25, 177, 25)
   .imagem-texto {
     width: 40%;
     height: 40%;
-    align-content: center;
+    text-align: center;
 
   }
 
@@ -34,7 +34,7 @@ header {background-color:rgb(25, 177, 25)
     font-size: 40px;
     color: white;
     display: inline-block;
-    padding: 20px;
+    padding: 40px;
     
 
 }
