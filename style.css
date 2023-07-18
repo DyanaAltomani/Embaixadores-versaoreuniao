@@ -78,8 +78,8 @@ header {background-color:rgb(25, 177, 25)
 .Rodape-lista {
     display: flex;
     display: inline-block;
-    font-size: 15px;
-    padding: 20px;
+    font-size: 20px;
+    padding: 10px;
 }
 footer {
     background-color: rgb(29, 115, 243);
