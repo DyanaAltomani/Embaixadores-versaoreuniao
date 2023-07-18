@@ -7,7 +7,7 @@ header {background-color:rgb(25, 177, 25)
 
 .cabecalho-lista-item {
     display: flex;
-
+    justify-content: space-around;
 }
    
 .cabecalho {
@@ -38,8 +38,15 @@ header {background-color:rgb(25, 177, 25)
  justify-content: space-around;
  padding: 20px;
  
+}
+
+.imagem-alura {
+    width: 10%;
+    height: 10%;
 
 }
+
+
 .cabecalho-lista {
     display: flex;
     justify-content: space-around;
