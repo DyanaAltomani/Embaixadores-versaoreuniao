@@ -29,7 +29,8 @@ header {background-color:rgb(25, 177, 25)
 
   }
 .cabecalho-lista {
-    font-size: larger;
+    display: flex;
+    justify-content: space-around;
 }
 
 .cabecalho-lista-item {
