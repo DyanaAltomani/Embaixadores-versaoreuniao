@@ -2,7 +2,7 @@ header {background-color:rgb(25, 177, 25)
     }
     body {color: black;}
     body{ text-align: justify;}
-    body {font-size: 20px;}
+    body {font-size: 10px;}
 
 
     
@@ -17,7 +17,7 @@ header {background-color:rgb(25, 177, 25)
 .cabecalho-imagem {
         width: 20%;
         height: 20%;
-        align-items: center;
+       
             }
 
   .imagem-texto {
