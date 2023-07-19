@@ -5,7 +5,14 @@ header {background-color:rgb(37, 231, 53)
     h1 {font-size: 40px;}
     p {font-size: 25px;}
 
- 
+ *{
+     padding:0%;
+     margin: 0%;
+ }
+
+main {
+    padding: 10 px;
+}
 .cabecalho-lista {
     display: flex;
     justify-content: space-around;
