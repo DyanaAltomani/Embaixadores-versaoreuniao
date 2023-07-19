@@ -5,8 +5,7 @@ header {background-color:rgb(37, 231, 53)
     h1 {font-size: 40px;}
     p {font-size: 25px;}
 
- main
- {background-color:  rgb(26, 103, 247);}  
+ 
 .cabecalho-lista-item {
     display: flex;
     justify-content: space-around;
