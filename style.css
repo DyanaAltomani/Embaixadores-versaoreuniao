@@ -9,8 +9,7 @@ header {background-color:rgb(37, 231, 53)
 .cabecalho-lista-item {
     display: flex;
     justify-content: space-around;
-    margin: 10px;
-    border-style:solid;
+
 }
    
 .cabecalho {
