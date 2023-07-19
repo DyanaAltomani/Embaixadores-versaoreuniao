@@ -2,8 +2,8 @@ header {background-color:rgb(37, 231, 53)
     }
     body {color: black;}
     body{ text-align: justify;}
-    h1 {font-size: 40px;}
-    p {font-size: 25px;}
+    h1 {font-size: 35px;}
+    p {font-size: 20px;}
 
  *{
      padding:0%;
@@ -34,8 +34,8 @@ main {
             }
 
   .imagem-texto {
-    width: 20%;
-    height: 20%;
+    width: 25%;
+    height: 25%;
     align-items: center;
 
   }
