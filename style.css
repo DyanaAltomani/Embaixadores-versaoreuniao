@@ -7,7 +7,7 @@ header {background-color:rgb(37, 231, 53)
 
  
 .cabecalho-lista {
-    display: inline-block;
+    display: flex;
     justify-content: space-around;
 
 }
