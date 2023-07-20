@@ -2,8 +2,8 @@ header {background-color:rgb(37, 231, 53)
     }
     body {color: black;}
     body{ text-align: justify;}
-    h1 {font-size: 35px;}
-    p {font-size: 20px;}
+    h1 {font-size: 35em;}
+    p {font-size: 20em;}
 
  *{
      padding:0%;
