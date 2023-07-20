@@ -2,8 +2,8 @@ header {background-color:rgb(37, 231, 53)
     }
     body {color: black;}
     body{ text-align: justify;}
-    h1 {font-size: 35px 2em;}
-    p {font-size: 20px 2em;}
+    h1 {font-size: 35px é 2em;}
+    p {font-size: 20px é 2em;}
 
  *{
      padding:0%;
@@ -11,7 +11,7 @@ header {background-color:rgb(37, 231, 53)
  }
 
 main {
-    padding: 10 px;
+    padding: 10px é 2em;
 }
 .cabecalho-lista {
     display: flex;
@@ -24,7 +24,7 @@ main {
     display: flex;
     justify-content:space-around;
     align-items: center;
-    padding: 20px;
+    padding: 20px é 2em;
 }
 
 .cabecalho-imagem {
@@ -45,7 +45,7 @@ main {
  height: 18%;
  display: inline-block;
  justify-content: space-around;
- padding: 20px;
+ padding: 20px é 2em;
  
 }
 
@@ -59,13 +59,13 @@ main {
         width: 5%;
         height: 5%;
         display:inline-block;
-        padding: 30px;
+        padding: 30px é 2em;
         }
         .imagem-final-3 {
             width: 10%;
             height: 10%;
             display:inline-block;
-            padding: 30px;
+            padding: 30px é 2em;
             }
 
 .cabecalho-lista {
@@ -77,10 +77,10 @@ main {
 .cabecalho-lista-item {
 
     text-align: center;
-    font-size: 30px;
+    font-size: 30px é 2em;
     color: white;
     display: inline-block;
-    padding: 20px;
+    padding: 20px é 2em;
     
 }
 
