@@ -22,7 +22,7 @@ main {
 .cabecalho {
     background-color: rgb(26, 103, 247);
     display: flex;
-    justify-content:center;
+    justify-content:space-around;
     align-items: center;
     padding: 20px;
 }
