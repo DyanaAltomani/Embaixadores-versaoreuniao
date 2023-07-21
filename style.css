@@ -20,7 +20,7 @@ main {
 }
    
 .cabecalho {
-    background-color: rgb(87, 136, 241);
+    background-color: rgb(0,191,255);
     display: flex;
     justify-content:space-around;
     align-items: center;
