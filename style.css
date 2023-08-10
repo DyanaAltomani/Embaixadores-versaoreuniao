@@ -45,6 +45,8 @@ main {
  height: 18%;
  display: inline-block;
  justify-content: space-around;
+ display: grid;
+ grid-template-columns: 50% 50%;
  padding: 20px;
  
 }
